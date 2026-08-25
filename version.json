@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 9,
-  "versionName": "0.1-wrapper-skeleton+9",
+  "versionCode": 10,
+  "versionName": "0.1-wrapper-skeleton+10",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v9/universum-kiosk-v9-0.1-wrapper-skeleton-9.apk",
-  "sha256": "78ae21822fe24ec3aaec77c9066f51890b6b95bc3e85168d915169ffef157926",
-  "sizeBytes": 24031688,
-  "generatedAt": "2026-08-25T13:49:55+00:00",
-  "gitCommit": "1690d2965d6393f0878f4b245a23f812b72fe26f",
-  "notes": "Use a stable raw GitHub manifest URL for future update checks; includes CUI cart-resume persistence fix."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v10/universum-kiosk-v10-0.1-wrapper-skeleton-10.apk",
+  "sha256": "750e630789fd2f4e978f489f1f52ca5dd4c950ff236324110e0dcdb58346075c",
+  "sizeBytes": 24031692,
+  "generatedAt": "2026-08-25T13:55:40+00:00",
+  "gitCommit": "68d44082fdaf49ba0e6de39324e72be556bc0cf6",
+  "notes": "Prevent duplicate receipts across phone/tablet WebUI: synced carts now clear automatically when another device finalizes or clears the cart."
 }
