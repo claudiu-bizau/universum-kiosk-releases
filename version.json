@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 16,
-  "versionName": "0.1-wrapper-skeleton+16",
+  "versionCode": 17,
+  "versionName": "0.1-wrapper-skeleton+17",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v16/universum-kiosk-v16-0.1-wrapper-skeleton-16.apk",
-  "sha256": "d6bbc7d936f3b407626a0d474d018931f69debf176e440fd460a6893563c191d",
-  "sizeBytes": 24031688,
-  "generatedAt": "2026-08-25T23:18:15+00:00",
-  "gitCommit": "0fc5ef2c3b599be7a3d6d5b39db10e6b26b6825b",
-  "notes": "Show the installed application version after checking for updates."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v17/universum-kiosk-v17-0.1-wrapper-skeleton-17.apk",
+  "sha256": "66a60895056066956892889db5a20ca7f8788889c1acdb5e6ce70f1786cab6b6",
+  "sizeBytes": 24031692,
+  "generatedAt": "2026-08-25T23:22:13+00:00",
+  "gitCommit": "bf35360a9725a6361435c1442d943c65cb440dab",
+  "notes": "Show the installed app version immediately in Update settings."
 }
