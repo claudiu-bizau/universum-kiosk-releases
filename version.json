@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 11,
-  "versionName": "0.1-wrapper-skeleton+11",
+  "versionCode": 12,
+  "versionName": "0.1-wrapper-skeleton+12",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v11/universum-kiosk-v11-0.1-wrapper-skeleton-11.apk",
-  "sha256": "da46580bc8055ccd093a3912ccc220e753cc0afcc2e5ece5afe258faf2ab4be5",
-  "sizeBytes": 24031688,
-  "generatedAt": "2026-08-25T16:04:31+00:00",
-  "gitCommit": "f23719eda825617ad694b30ab0759e5d95efcab4",
-  "notes": "Responsive layout update: keeps receipt, product controls, numeric panel, and payment buttons usable on phones/tablets; adds tablet portrait split and iPad landscape three-panel layout."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v12/universum-kiosk-v12-0.1-wrapper-skeleton-12.apk",
+  "sha256": "50e256b9b7b107d05b12e8aa990c2b836974b12b076fa41b376160a86952c106",
+  "sizeBytes": 24031692,
+  "generatedAt": "2026-08-25T16:36:27+00:00",
+  "gitCommit": "3fc22b1634654a4a175f50ccfe9442bd897fa436",
+  "notes": "Line item editor: edit name, price, quantity, discount, or remove an existing receipt line from a focused editor sheet."
 }
