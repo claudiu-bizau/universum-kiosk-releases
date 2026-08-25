@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 10,
-  "versionName": "0.1-wrapper-skeleton+10",
+  "versionCode": 11,
+  "versionName": "0.1-wrapper-skeleton+11",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v10/universum-kiosk-v10-0.1-wrapper-skeleton-10.apk",
-  "sha256": "750e630789fd2f4e978f489f1f52ca5dd4c950ff236324110e0dcdb58346075c",
-  "sizeBytes": 24031692,
-  "generatedAt": "2026-08-25T13:56:10+00:00",
-  "gitCommit": "68d44082fdaf49ba0e6de39324e72be556bc0cf6",
-  "notes": "Prevent duplicate receipts across phone/tablet WebUI: synced carts now clear automatically when another device finalizes or clears the cart."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v11/universum-kiosk-v11-0.1-wrapper-skeleton-11.apk",
+  "sha256": "da46580bc8055ccd093a3912ccc220e753cc0afcc2e5ece5afe258faf2ab4be5",
+  "sizeBytes": 24031688,
+  "generatedAt": "2026-08-25T16:04:31+00:00",
+  "gitCommit": "f23719eda825617ad694b30ab0759e5d95efcab4",
+  "notes": "Responsive layout update: keeps receipt, product controls, numeric panel, and payment buttons usable on phones/tablets; adds tablet portrait split and iPad landscape three-panel layout."
 }
