@@ -7,7 +7,7 @@
   "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v10/universum-kiosk-v10-0.1-wrapper-skeleton-10.apk",
   "sha256": "750e630789fd2f4e978f489f1f52ca5dd4c950ff236324110e0dcdb58346075c",
   "sizeBytes": 24031692,
-  "generatedAt": "2026-08-25T13:55:40+00:00",
+  "generatedAt": "2026-08-25T13:56:10+00:00",
   "gitCommit": "68d44082fdaf49ba0e6de39324e72be556bc0cf6",
   "notes": "Prevent duplicate receipts across phone/tablet WebUI: synced carts now clear automatically when another device finalizes or clears the cart."
 }
