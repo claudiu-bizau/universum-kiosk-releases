@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 15,
-  "versionName": "0.1-wrapper-skeleton+15",
+  "versionCode": 16,
+  "versionName": "0.1-wrapper-skeleton+16",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v15/universum-kiosk-v15-0.1-wrapper-skeleton-15.apk",
-  "sha256": "624bf92ba56cd1b160363ab6269ce97b5d7863d323040d7819317f8293e8ee8f",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v16/universum-kiosk-v16-0.1-wrapper-skeleton-16.apk",
+  "sha256": "d6bbc7d936f3b407626a0d474d018931f69debf176e440fd460a6893563c191d",
   "sizeBytes": 24031688,
-  "generatedAt": "2026-08-25T23:04:26+00:00",
-  "gitCommit": "86141d88b71edb1d69b7ddea2d96441fd3cc3882",
-  "notes": "Fix responsive receipt scrolling so long receipts cannot push payment controls off screen."
+  "generatedAt": "2026-08-25T23:18:15+00:00",
+  "gitCommit": "0fc5ef2c3b599be7a3d6d5b39db10e6b26b6825b",
+  "notes": "Show the installed application version after checking for updates."
 }
