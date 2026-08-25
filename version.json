@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 13,
-  "versionName": "0.1-wrapper-skeleton+13",
+  "versionCode": 14,
+  "versionName": "0.1-wrapper-skeleton+14",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v13/universum-kiosk-v13-0.1-wrapper-skeleton-13.apk",
-  "sha256": "12e617afefcc3cc174938311d5096c77cb02febf3c2f25ab68ddc9699ada47a5",
-  "sizeBytes": 24031692,
-  "generatedAt": "2026-08-25T17:40:01+00:00",
-  "gitCommit": "3743f28c256ddb533ba9c478e9e1a372c4a917a8",
-  "notes": "Catalog dedup policy: product identity is now case-insensitive after clean/diacritic normalization; duplicate saves are rejected and existing duplicate catalog entries are read deterministically first-wins."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v14/universum-kiosk-v14-0.1-wrapper-skeleton-14.apk",
+  "sha256": "e8acb225aab168f026ecbd67c5c2774dc532f1bc21dde1ac0c8cb0f46addb88e",
+  "sizeBytes": 24031688,
+  "generatedAt": "2026-08-25T18:03:47+00:00",
+  "gitCommit": "7e606f5cd819816b6a65f33b247a6cec45279760",
+  "notes": "UX17 product editor duplicate warning parity and catalog identity safeguards."
 }
