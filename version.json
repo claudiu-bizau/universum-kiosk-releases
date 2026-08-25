@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 12,
-  "versionName": "0.1-wrapper-skeleton+12",
+  "versionCode": 13,
+  "versionName": "0.1-wrapper-skeleton+13",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v12/universum-kiosk-v12-0.1-wrapper-skeleton-12.apk",
-  "sha256": "50e256b9b7b107d05b12e8aa990c2b836974b12b076fa41b376160a86952c106",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v13/universum-kiosk-v13-0.1-wrapper-skeleton-13.apk",
+  "sha256": "12e617afefcc3cc174938311d5096c77cb02febf3c2f25ab68ddc9699ada47a5",
   "sizeBytes": 24031692,
-  "generatedAt": "2026-08-25T16:36:27+00:00",
-  "gitCommit": "3fc22b1634654a4a175f50ccfe9442bd897fa436",
-  "notes": "Line item editor: edit name, price, quantity, discount, or remove an existing receipt line from a focused editor sheet."
+  "generatedAt": "2026-08-25T17:40:01+00:00",
+  "gitCommit": "3743f28c256ddb533ba9c478e9e1a372c4a917a8",
+  "notes": "Catalog dedup policy: product identity is now case-insensitive after clean/diacritic normalization; duplicate saves are rejected and existing duplicate catalog entries are read deterministically first-wins."
 }
