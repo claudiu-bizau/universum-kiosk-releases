@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 25,
-  "versionName": "0.1-wrapper-skeleton+25",
+  "versionCode": 27,
+  "versionName": "0.1-wrapper-skeleton+27",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v25/universum-kiosk-v25-0.1-wrapper-skeleton-25.apk",
-  "sha256": "1a0b48a59a72a3aa8ceb4f712dcfb8ae5acb999e2b2ad7354363d9f6a2f2e28e",
-  "sizeBytes": 24048076,
-  "generatedAt": "2026-08-26T09:48:40+00:00",
-  "gitCommit": "7d9b9809922bf35170c7507cf4a4eb36446faec7",
-  "notes": "Recovery update: restore Android app startup while persistent settings storage is investigated."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v27/universum-kiosk-v27-0.1-wrapper-skeleton-27.apk",
+  "sha256": "ad068b1cfc414aef25227df679b1edbd23bedaa4aa0c061ba602e1ae851b1c57",
+  "sizeBytes": 24048072,
+  "generatedAt": "2026-08-26T13:57:19+00:00",
+  "gitCommit": "459b494852e022d864034033b7e307fa82ce9f4b",
+  "notes": "Persist kiosk settings, InfoCUI API key and working state across Android updates."
 }
