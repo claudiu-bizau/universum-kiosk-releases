@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 21,
-  "versionName": "0.1-wrapper-skeleton+21",
+  "versionCode": 22,
+  "versionName": "0.1-wrapper-skeleton+22",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v21/universum-kiosk-v21-0.1-wrapper-skeleton-21.apk",
-  "sha256": "33e0810e51b36abdaaf6192da6b460303745efe68f382f1d69211cdbc0c76c2e",
-  "sizeBytes": 24031688,
-  "generatedAt": "2026-08-26T08:35:34+00:00",
-  "gitCommit": "1a74038083daccfbde73fab9b375311ae78001bd",
-  "notes": "Add a dedicated quantity editor for receipt items."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v22/universum-kiosk-v22-0.1-wrapper-skeleton-22.apk",
+  "sha256": "75212516cb62bb8ef2dd052af38474299950012f13231d79aa7d42a01b64331c",
+  "sizeBytes": 24048076,
+  "generatedAt": "2026-08-26T09:26:16+00:00",
+  "gitCommit": "88610e211b4469c6a6337123411a2b40de204e7a",
+  "notes": "Add secure InfoCUI company confirmation for Romanian CUI entries."
 }
