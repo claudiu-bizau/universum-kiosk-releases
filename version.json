@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 22,
-  "versionName": "0.1-wrapper-skeleton+22",
+  "versionCode": 23,
+  "versionName": "0.1-wrapper-skeleton+23",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v22/universum-kiosk-v22-0.1-wrapper-skeleton-22.apk",
-  "sha256": "75212516cb62bb8ef2dd052af38474299950012f13231d79aa7d42a01b64331c",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v23/universum-kiosk-v23-0.1-wrapper-skeleton-23.apk",
+  "sha256": "609783fc6990eb06041c302b9341fb03aa9e2f4d14d3df6a8de73e576e39699b",
   "sizeBytes": 24048076,
-  "generatedAt": "2026-08-26T09:26:16+00:00",
-  "gitCommit": "88610e211b4469c6a6337123411a2b40de204e7a",
-  "notes": "Add secure InfoCUI company confirmation for Romanian CUI entries."
+  "generatedAt": "2026-08-26T09:37:45+00:00",
+  "gitCommit": "fdd28894ab9bba3b958f240cdaf938b2aa096d91",
+  "notes": "Fix InfoCUI status display and ensure the Android app always loads the current packaged UI."
 }
