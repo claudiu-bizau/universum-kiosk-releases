@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 27,
-  "versionName": "0.1-wrapper-skeleton+27",
+  "versionCode": 28,
+  "versionName": "0.1-wrapper-skeleton+28",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v27/universum-kiosk-v27-0.1-wrapper-skeleton-27.apk",
-  "sha256": "ad068b1cfc414aef25227df679b1edbd23bedaa4aa0c061ba602e1ae851b1c57",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v28/universum-kiosk-v28-0.1-wrapper-skeleton-28.apk",
+  "sha256": "228243e19ba3638e072fd5ac1c50df20a747463e7da9c97fbe0dd8d5cc3b960d",
   "sizeBytes": 24048072,
-  "generatedAt": "2026-08-26T13:57:19+00:00",
-  "gitCommit": "459b494852e022d864034033b7e307fa82ce9f4b",
-  "notes": "Persist kiosk settings, InfoCUI API key and working state across Android updates."
+  "generatedAt": "2026-08-26T16:15:26+00:00",
+  "gitCommit": "990b86e7ef53f7e1137ed4549e80db7fce59e425",
+  "notes": "Add accelerated quantity adjustment and responsive landscape layouts with a per-device numeric-panel preference."
 }
