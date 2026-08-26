@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 17,
-  "versionName": "0.1-wrapper-skeleton+17",
+  "versionCode": 18,
+  "versionName": "0.1-wrapper-skeleton+18",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v17/universum-kiosk-v17-0.1-wrapper-skeleton-17.apk",
-  "sha256": "66a60895056066956892889db5a20ca7f8788889c1acdb5e6ce70f1786cab6b6",
-  "sizeBytes": 24031692,
-  "generatedAt": "2026-08-25T23:22:13+00:00",
-  "gitCommit": "bf35360a9725a6361435c1442d943c65cb440dab",
-  "notes": "Show the installed app version immediately in Update settings."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v18/universum-kiosk-v18-0.1-wrapper-skeleton-18.apk",
+  "sha256": "d386bdb56e270f631f703510b3cffa149090155b3b7e980c1bdd5d6d5d1fd409",
+  "sizeBytes": 25314897,
+  "generatedAt": "2026-08-26T07:39:58+00:00",
+  "gitCommit": "a1f7dacfb2693e965a7be69476d5719e9da4827f",
+  "notes": "Always show the installed version in Update settings; fix versioned WebView asset rebuilds."
 }
