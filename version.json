@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 32,
-  "versionName": "0.1-wrapper-skeleton+32",
+  "versionCode": 33,
+  "versionName": "0.1-wrapper-skeleton+33",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v32/universum-kiosk-v32-0.1-wrapper-skeleton-32.apk",
-  "sha256": "917514ec3f218550a221b366eed49ac419ed6d8fa91b44604148339ddc7f709e",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v33/universum-kiosk-v33-0.1-wrapper-skeleton-33.apk",
+  "sha256": "e91e3a8230a2946af7ae2c7da00250088c6bd328177e663202df57292bfd7758",
   "sizeBytes": 24064460,
-  "generatedAt": "2026-08-26T22:39:08+00:00",
-  "gitCommit": "befa0d68f29a5d66c3073fe0f2b01059fb4bf293",
-  "notes": "v32: diagnostic FisCool doar citire în Setări — stare casă, grupe TVA, ANAF, setări și terminale POS."
+  "generatedAt": "2026-08-26T23:20:31+00:00",
+  "gitCommit": "b7025b24036c6745a905eaa9e6ded3fb9dc65325",
+  "notes": "v33: diagnosticul FisCool are carduri lizibile, tabele adaptive și Detalii tehnice pentru răspunsul complet."
 }
