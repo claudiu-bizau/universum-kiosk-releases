@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 28,
-  "versionName": "0.1-wrapper-skeleton+28",
+  "versionCode": 29,
+  "versionName": "0.1-wrapper-skeleton+29",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v28/universum-kiosk-v28-0.1-wrapper-skeleton-28.apk",
-  "sha256": "228243e19ba3638e072fd5ac1c50df20a747463e7da9c97fbe0dd8d5cc3b960d",
-  "sizeBytes": 24048072,
-  "generatedAt": "2026-08-26T16:15:26+00:00",
-  "gitCommit": "990b86e7ef53f7e1137ed4549e80db7fce59e425",
-  "notes": "Add accelerated quantity adjustment and responsive landscape layouts with a per-device numeric-panel preference."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v29/universum-kiosk-v29-0.1-wrapper-skeleton-29.apk",
+  "sha256": "bfc32f9482ce28ccbc0284b19fb64011e92815ab6a88ca57976d77cfe33431de",
+  "sizeBytes": 24048076,
+  "generatedAt": "2026-08-26T16:39:50+00:00",
+  "gitCommit": "7e5d3b5d1e52bb129aa6bc3fbbbb3945bde94d1d",
+  "notes": "Add coherent iPad portrait layout and per-device numeric panel control."
 }
