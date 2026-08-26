@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 23,
-  "versionName": "0.1-wrapper-skeleton+23",
+  "versionCode": 24,
+  "versionName": "0.1-wrapper-skeleton+24",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v23/universum-kiosk-v23-0.1-wrapper-skeleton-23.apk",
-  "sha256": "609783fc6990eb06041c302b9341fb03aa9e2f4d14d3df6a8de73e576e39699b",
-  "sizeBytes": 24048076,
-  "generatedAt": "2026-08-26T09:37:45+00:00",
-  "gitCommit": "fdd28894ab9bba3b958f240cdaf938b2aa096d91",
-  "notes": "Fix InfoCUI status display and ensure the Android app always loads the current packaged UI."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v24/universum-kiosk-v24-0.1-wrapper-skeleton-24.apk",
+  "sha256": "e8f42d1f1c3fece0c1fe23d94c79136ca0956c50a47f1e3c8ed675b715696c0e",
+  "sizeBytes": 24048072,
+  "generatedAt": "2026-08-26T09:42:51+00:00",
+  "gitCommit": "cf193eaa25a0a464adf486f8036fe0e876d82d2b",
+  "notes": "Keep InfoCUI API key, kiosk settings and current state across Android updates."
 }
