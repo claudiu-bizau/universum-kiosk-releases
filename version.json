@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 20,
-  "versionName": "0.1-wrapper-skeleton+20",
+  "versionCode": 21,
+  "versionName": "0.1-wrapper-skeleton+21",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v20/universum-kiosk-v20-0.1-wrapper-skeleton-20.apk",
-  "sha256": "72e752f2aac51be8e7a94fc4e204ef8ef0a3cd6fa5c13f1c278ee2e7f1c4e549",
-  "sizeBytes": 24031692,
-  "generatedAt": "2026-08-26T08:21:20+00:00",
-  "gitCommit": "7c00211a67c5e4a433d447f5065df59d95e96f91",
-  "notes": "Improve receipt line banding and selected-item continuity."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v21/universum-kiosk-v21-0.1-wrapper-skeleton-21.apk",
+  "sha256": "33e0810e51b36abdaaf6192da6b460303745efe68f382f1d69211cdbc0c76c2e",
+  "sizeBytes": 24031688,
+  "generatedAt": "2026-08-26T08:35:34+00:00",
+  "gitCommit": "1a74038083daccfbde73fab9b375311ae78001bd",
+  "notes": "Add a dedicated quantity editor for receipt items."
 }
