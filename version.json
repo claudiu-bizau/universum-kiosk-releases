@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 19,
-  "versionName": "0.1-wrapper-skeleton+19",
+  "versionCode": 20,
+  "versionName": "0.1-wrapper-skeleton+20",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v19/universum-kiosk-v19-0.1-wrapper-skeleton-19.apk",
-  "sha256": "6e2af26cfbe18f156a6f2e1484c7bfc546de541a6a9ffb55750ee59f1c67154b",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v20/universum-kiosk-v20-0.1-wrapper-skeleton-20.apk",
+  "sha256": "72e752f2aac51be8e7a94fc4e204ef8ef0a3cd6fa5c13f1c278ee2e7f1c4e549",
   "sizeBytes": 24031692,
-  "generatedAt": "2026-08-26T08:03:39+00:00",
-  "gitCommit": "65275260e32522b7f8aae001a3afe4aa942411c7",
-  "notes": "Keep product catalog quantities in sync after each printed receipt."
+  "generatedAt": "2026-08-26T08:21:20+00:00",
+  "gitCommit": "7c00211a67c5e4a433d447f5065df59d95e96f91",
+  "notes": "Improve receipt line banding and selected-item continuity."
 }
