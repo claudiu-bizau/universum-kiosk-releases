@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 18,
-  "versionName": "0.1-wrapper-skeleton+18",
+  "versionCode": 19,
+  "versionName": "0.1-wrapper-skeleton+19",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v18/universum-kiosk-v18-0.1-wrapper-skeleton-18.apk",
-  "sha256": "d386bdb56e270f631f703510b3cffa149090155b3b7e980c1bdd5d6d5d1fd409",
-  "sizeBytes": 25314897,
-  "generatedAt": "2026-08-26T07:39:58+00:00",
-  "gitCommit": "a1f7dacfb2693e965a7be69476d5719e9da4827f",
-  "notes": "Always show the installed version in Update settings; fix versioned WebView asset rebuilds."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v19/universum-kiosk-v19-0.1-wrapper-skeleton-19.apk",
+  "sha256": "6e2af26cfbe18f156a6f2e1484c7bfc546de541a6a9ffb55750ee59f1c67154b",
+  "sizeBytes": 24031692,
+  "generatedAt": "2026-08-26T08:03:39+00:00",
+  "gitCommit": "65275260e32522b7f8aae001a3afe4aa942411c7",
+  "notes": "Keep product catalog quantities in sync after each printed receipt."
 }
