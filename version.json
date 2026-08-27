@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 33,
-  "versionName": "0.1-wrapper-skeleton+33",
+  "versionCode": 34,
+  "versionName": "0.1-wrapper-skeleton+34",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v33/universum-kiosk-v33-0.1-wrapper-skeleton-33.apk",
-  "sha256": "e91e3a8230a2946af7ae2c7da00250088c6bd328177e663202df57292bfd7758",
-  "sizeBytes": 24064460,
-  "generatedAt": "2026-08-26T23:20:31+00:00",
-  "gitCommit": "b7025b24036c6745a905eaa9e6ded3fb9dc65325",
-  "notes": "v33: diagnosticul FisCool are carduri lizibile, tabele adaptive și Detalii tehnice pentru răspunsul complet."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v34/universum-kiosk-v34-0.1-wrapper-skeleton-34.apk",
+  "sha256": "39f13aee3e11455a433f1dffbfcd1ce35365d53149ce2e8b4ee0936a54d12064",
+  "sizeBytes": 24080900,
+  "generatedAt": "2026-08-27T00:23:36+00:00",
+  "gitCommit": "730df390b24a254f24deb18b7dff8b0d6dabf79d",
+  "notes": "v34: alegerea și lansarea manuală a aplicației POS din fluxul Card; verificarea update-urilor ignoră cache-ul CDN pentru manifestul versiunii."
 }
