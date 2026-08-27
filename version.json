@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 34,
-  "versionName": "0.1-wrapper-skeleton+34",
+  "versionCode": 35,
+  "versionName": "0.1-wrapper-skeleton+35",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v34/universum-kiosk-v34-0.1-wrapper-skeleton-34.apk",
-  "sha256": "39f13aee3e11455a433f1dffbfcd1ce35365d53149ce2e8b4ee0936a54d12064",
-  "sizeBytes": 24080900,
-  "generatedAt": "2026-08-27T00:23:36+00:00",
-  "gitCommit": "730df390b24a254f24deb18b7dff8b0d6dabf79d",
-  "notes": "v34: alegerea și lansarea manuală a aplicației POS din fluxul Card; verificarea update-urilor ignoră cache-ul CDN pentru manifestul versiunii."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v35/universum-kiosk-v35-0.1-wrapper-skeleton-35.apk",
+  "sha256": "3a6ad653c4c3e6e9a77bc37f4ac58ab9b6a86bb12f67a6f9669bb36b97e56b75",
+  "sizeBytes": 23522643,
+  "generatedAt": "2026-08-27T08:44:54+00:00",
+  "gitCommit": "db33d1c7790d031c3b565f29ebef09403517cf6b",
+  "notes": "v35 este primul APK semnat de producție. Tranziție unică: nu se instalează peste v34; dezinstalează mai întâi versiunea debug, apoi instalează manual acest APK. După instalare, update-urile viitoare vor funcționa normal."
 }
