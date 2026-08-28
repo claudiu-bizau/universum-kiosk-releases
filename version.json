@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 35,
-  "versionName": "0.1-wrapper-skeleton+35",
+  "versionCode": 36,
+  "versionName": "0.1-wrapper-skeleton+36",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v35/universum-kiosk-v35-0.1-wrapper-skeleton-35.apk",
-  "sha256": "3a6ad653c4c3e6e9a77bc37f4ac58ab9b6a86bb12f67a6f9669bb36b97e56b75",
-  "sizeBytes": 23522643,
-  "generatedAt": "2026-08-27T08:44:54+00:00",
-  "gitCommit": "db33d1c7790d031c3b565f29ebef09403517cf6b",
-  "notes": "v35 este primul APK semnat de producție. Tranziție unică: nu se instalează peste v34; dezinstalează mai întâi versiunea debug, apoi instalează manual acest APK. După instalare, update-urile viitoare vor funcționa normal."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v36/universum-kiosk-v36-0.1-wrapper-skeleton-36.apk",
+  "sha256": "5dd258a4f836f207c15ba6b94d1a287819ee45c195ad27a4ce2a2feedca7c81c",
+  "sizeBytes": 23588183,
+  "generatedAt": "2026-08-28T08:25:15+00:00",
+  "gitCommit": "e5fe8c97a7ec86d1fee84e5036f3cfe8a878a5a3",
+  "notes": "v36: recuperare la pornire pentru FisCool (fara lansare automata), lansator manual FisCool, fullscreen WebUI, ajutor operator, layout responsive imbunatatit si diagnostice FisCool mai clare."
 }
