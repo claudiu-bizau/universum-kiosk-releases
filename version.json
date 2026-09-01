@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 37,
-  "versionName": "0.1-wrapper-skeleton+37",
+  "versionCode": 38,
+  "versionName": "0.1-wrapper-skeleton+38",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v37/universum-kiosk-v37-0.1-wrapper-skeleton-37.apk",
-  "sha256": "261e2ea99da32977497ff86924f3c3bda06f21a22ea38c6191cb7e4a0e12a799",
-  "sizeBytes": 23588183,
-  "generatedAt": "2026-09-01T14:21:39+00:00",
-  "gitCommit": "44c5799a0a2b3585b42784dbf87f44baeeeccb48",
-  "notes": "v37: meniu nou (Rapoarte/Setari/WebUI/Ajutor/Tema/Fullscreen), Setari pe categorii, ghidare fullscreen pe iPhone si iPad"
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v38/universum-kiosk-v38-0.1-wrapper-skeleton-38.apk",
+  "sha256": "129e677d7c0619d42339255eeb746013b9fc5582398646ca2ef34b8623ade9be",
+  "sizeBytes": 23604567,
+  "generatedAt": "2026-09-01T19:54:28+00:00",
+  "gitCommit": "e0acd39c391cb49756bc202022d281e8bac7e373",
+  "notes": "v38: bonul compact mobil ce nu mai ascunde produsele, sertar full-screen pentru bon (X/Escape, focus corect) si Setari aproape full-screen pe tableta/desktop cu categorii+descrieri pastrate pe telefon"
 }
