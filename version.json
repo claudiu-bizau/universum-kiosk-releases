@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 36,
-  "versionName": "0.1-wrapper-skeleton+36",
+  "versionCode": 37,
+  "versionName": "0.1-wrapper-skeleton+37",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v36/universum-kiosk-v36-0.1-wrapper-skeleton-36.apk",
-  "sha256": "5dd258a4f836f207c15ba6b94d1a287819ee45c195ad27a4ce2a2feedca7c81c",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v37/universum-kiosk-v37-0.1-wrapper-skeleton-37.apk",
+  "sha256": "261e2ea99da32977497ff86924f3c3bda06f21a22ea38c6191cb7e4a0e12a799",
   "sizeBytes": 23588183,
-  "generatedAt": "2026-08-28T08:25:15+00:00",
-  "gitCommit": "e5fe8c97a7ec86d1fee84e5036f3cfe8a878a5a3",
-  "notes": "v36: recuperare la pornire pentru FisCool (fara lansare automata), lansator manual FisCool, fullscreen WebUI, ajutor operator, layout responsive imbunatatit si diagnostice FisCool mai clare."
+  "generatedAt": "2026-09-01T14:21:39+00:00",
+  "gitCommit": "44c5799a0a2b3585b42784dbf87f44baeeeccb48",
+  "notes": "v37: meniu nou (Rapoarte/Setari/WebUI/Ajutor/Tema/Fullscreen), Setari pe categorii, ghidare fullscreen pe iPhone si iPad"
 }
