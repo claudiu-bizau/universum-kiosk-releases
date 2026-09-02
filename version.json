@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 38,
-  "versionName": "0.1-wrapper-skeleton+38",
+  "versionCode": 39,
+  "versionName": "0.1-wrapper-skeleton+39",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v38/universum-kiosk-v38-0.1-wrapper-skeleton-38.apk",
-  "sha256": "129e677d7c0619d42339255eeb746013b9fc5582398646ca2ef34b8623ade9be",
-  "sizeBytes": 23604567,
-  "generatedAt": "2026-09-01T19:54:28+00:00",
-  "gitCommit": "e0acd39c391cb49756bc202022d281e8bac7e373",
-  "notes": "v38: bonul compact mobil ce nu mai ascunde produsele, sertar full-screen pentru bon (X/Escape, focus corect) si Setari aproape full-screen pe tableta/desktop cu categorii+descrieri pastrate pe telefon"
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v39/universum-kiosk-v39-0.1-wrapper-skeleton-39.apk",
+  "sha256": "cb79720211de5f3b939d85222554630b56643a442be94191f273f8b47ed288d4",
+  "sizeBytes": 23605043,
+  "generatedAt": "2026-09-02T06:25:56+00:00",
+  "gitCommit": "8b3bbb64e51290062e9814d4b259d2344c9a7aca",
+  "notes": "v39: elimină bara Android nativă inutilă și repară recunoașterea aceluiași produs într-un coș reluat pe alt dispozitiv."
 }
