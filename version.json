@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 39,
-  "versionName": "0.1-wrapper-skeleton+39",
+  "versionCode": 40,
+  "versionName": "0.1-wrapper-skeleton+40",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v39/universum-kiosk-v39-0.1-wrapper-skeleton-39.apk",
-  "sha256": "cb79720211de5f3b939d85222554630b56643a442be94191f273f8b47ed288d4",
-  "sizeBytes": 23605043,
-  "generatedAt": "2026-09-02T06:25:56+00:00",
-  "gitCommit": "8b3bbb64e51290062e9814d4b259d2344c9a7aca",
-  "notes": "v39: elimină bara Android nativă inutilă și repară recunoașterea aceluiași produs într-un coș reluat pe alt dispozitiv."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v40/universum-kiosk-v40-0.1-wrapper-skeleton-40.apk",
+  "sha256": "9e765d170424a2c49b7281a7d47f42e2878f0244c2c4455d65f6937634b84bcc",
+  "sizeBytes": 23605039,
+  "generatedAt": "2026-09-02T07:43:19+00:00",
+  "gitCommit": "d0b9af560df4f38f837b6661d399679db0a9e2f8",
+  "notes": "v40: layout-ul de tabletă nu mai taie controale la marginea ecranului, păstrează bonul și plățile vizibile și elimină spațiul gol excesiv din catalog."
 }
