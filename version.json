@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 40,
-  "versionName": "0.1-wrapper-skeleton+40",
+  "versionCode": 41,
+  "versionName": "0.1-wrapper-skeleton+41",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v40/universum-kiosk-v40-0.1-wrapper-skeleton-40.apk",
-  "sha256": "9e765d170424a2c49b7281a7d47f42e2878f0244c2c4455d65f6937634b84bcc",
-  "sizeBytes": 23605039,
-  "generatedAt": "2026-09-02T07:43:19+00:00",
-  "gitCommit": "d0b9af560df4f38f837b6661d399679db0a9e2f8",
-  "notes": "v40: layout-ul de tabletă nu mai taie controale la marginea ecranului, păstrează bonul și plățile vizibile și elimină spațiul gol excesiv din catalog."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v41/universum-kiosk-v41-0.1-wrapper-skeleton-41.apk",
+  "sha256": "3286d8d35455ac7c39f7a7ab5e33d26bf33bd8729d5a176d98b6afa036c19376",
+  "sizeBytes": 23605095,
+  "generatedAt": "2026-09-02T15:30:30+00:00",
+  "gitCommit": "9087a862c24564bd7ca30b4bb05c85b2c5fcce18",
+  "notes": "v41: setări acordeon pe telefon, layout îmbunătățit pentru tabletă portret, panou numeric repoziționat, corecții de fundal Android și umbră în landscape."
 }
