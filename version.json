@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 43,
-  "versionName": "0.1-wrapper-skeleton+43",
+  "versionCode": 44,
+  "versionName": "0.1-wrapper-skeleton+44",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v43/universum-kiosk-v43-0.1-wrapper-skeleton-43.apk",
-  "sha256": "0cfb8080adb440a558d79d8c96abc613a0269ab1dd1a87d68df8a9841be6df5a",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v44/universum-kiosk-v44-0.1-wrapper-skeleton-44.apk",
+  "sha256": "10b57dbcc040e415912a4fb074884dcfd8b41795f9505af4e0dacd377a3f133e",
   "sizeBytes": 23604971,
-  "generatedAt": "2026-09-03T10:59:21+00:00",
-  "gitCommit": "998241d5d09ef6647a093f0a5b70095da5a5d221",
-  "notes": "v43 — moneda selectată apare acum și lângă Total pe bonul de ecran."
+  "generatedAt": "2026-09-03T13:49:33+00:00",
+  "gitCommit": "2fddbb904ceabccaebb61c3c90dc0f5bcb38f202",
+  "notes": "v44 — Suma custom folosește «Pune pe bon», antetul Setărilor nu mai lasă conținutul să se vadă prin el, iar Setările rămân utilizabile pe telefon în landscape."
 }
