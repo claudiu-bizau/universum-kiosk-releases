@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 45,
-  "versionName": "0.1-wrapper-skeleton+45",
+  "versionCode": 46,
+  "versionName": "0.1-wrapper-skeleton+46",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v45/universum-kiosk-v45-0.1-wrapper-skeleton-45.apk",
-  "sha256": "b2079ac6ef596ecb9ca092aedd8ddc20461e9c83889a2f12607a53fa1ca525f8",
-  "sizeBytes": 23604975,
-  "generatedAt": "2026-09-03T17:35:47+00:00",
-  "gitCommit": "15a03f31c7d3e2e4b1f07b5600025f038a1bfeb8",
-  "notes": "v45 — Bara compactă a bonului este mai lizibilă și arată numele singurului produs când încape."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v46/universum-kiosk-v46-0.1-wrapper-skeleton-46.apk",
+  "sha256": "bcd5a722a31af4f5937eb28fd4f559e015d67d548f3c91e572c9e8f14d96c183",
+  "sizeBytes": 23604971,
+  "generatedAt": "2026-09-03T18:32:02+00:00",
+  "gitCommit": "dbe4f124f997f419e58e977ed7ba30dc893e4d9c",
+  "notes": "v46 — sincronizarea coșului este discretă, iar titlul extins din Setări nu lasă textul să iasă din buton."
 }
