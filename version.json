@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 42,
-  "versionName": "0.1-wrapper-skeleton+42",
+  "versionCode": 43,
+  "versionName": "0.1-wrapper-skeleton+43",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v42/universum-kiosk-v42-0.1-wrapper-skeleton-42.apk",
-  "sha256": "344ea53c88aea9ce11633e57c14ee1c5c77031514d734ff8b0530ee5bc5d5baf",
-  "sizeBytes": 23604975,
-  "generatedAt": "2026-09-03T01:24:28+00:00",
-  "gitCommit": "11d6ea17eaeda2b6bfd8f491ed231f45e1c5e061",
-  "notes": "Universum Kiosk v42 — release build from reviewed main. Version bump and release packaging; v41 UX features included."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v43/universum-kiosk-v43-0.1-wrapper-skeleton-43.apk",
+  "sha256": "0cfb8080adb440a558d79d8c96abc613a0269ab1dd1a87d68df8a9841be6df5a",
+  "sizeBytes": 23604971,
+  "generatedAt": "2026-09-03T10:59:21+00:00",
+  "gitCommit": "998241d5d09ef6647a093f0a5b70095da5a5d221",
+  "notes": "v43 — moneda selectată apare acum și lângă Total pe bonul de ecran."
 }
