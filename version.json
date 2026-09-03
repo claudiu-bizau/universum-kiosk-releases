@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 48,
-  "versionName": "0.1-wrapper-skeleton+48",
+  "versionCode": 49,
+  "versionName": "0.1-wrapper-skeleton+49",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v48/universum-kiosk-v48-0.1-wrapper-skeleton-48.apk",
-  "sha256": "37e32c8b69088dd7890346bc733a35d942c8c7e08e8ea461a3ebf1d45b543c2f",
-  "sizeBytes": 23604971,
-  "generatedAt": "2026-09-03T20:20:48+00:00",
-  "gitCommit": "f987e1bd28cfc1cfe82c885b0893293a58f62dc4",
-  "notes": "v48: Settings clipping and scrollport fix, centered payment labels, and complete mobile UI polish."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v49/universum-kiosk-v49-0.1-wrapper-skeleton-49.apk",
+  "sha256": "7577be0092d8c9fcfe72ed4f8cd1b9ad8ebbad8f6d95a4db089ad3f88c85ab0a",
+  "sizeBytes": 23604975,
+  "generatedAt": "2026-09-03T21:39:55+00:00",
+  "gitCommit": "ba6ed2adf32f5130122da45b948d8484392cb8cf",
+  "notes": "v49: Settings scrollport/clipping fix verified in source; centered payment labels and complete mobile UI polish."
 }
