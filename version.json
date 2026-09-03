@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 41,
-  "versionName": "0.1-wrapper-skeleton+41",
+  "versionCode": 42,
+  "versionName": "0.1-wrapper-skeleton+42",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v41/universum-kiosk-v41-0.1-wrapper-skeleton-41.apk",
-  "sha256": "3286d8d35455ac7c39f7a7ab5e33d26bf33bd8729d5a176d98b6afa036c19376",
-  "sizeBytes": 23605095,
-  "generatedAt": "2026-09-02T15:30:30+00:00",
-  "gitCommit": "9087a862c24564bd7ca30b4bb05c85b2c5fcce18",
-  "notes": "v41: setări acordeon pe telefon, layout îmbunătățit pentru tabletă portret, panou numeric repoziționat, corecții de fundal Android și umbră în landscape."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v42/universum-kiosk-v42-0.1-wrapper-skeleton-42.apk",
+  "sha256": "344ea53c88aea9ce11633e57c14ee1c5c77031514d734ff8b0530ee5bc5d5baf",
+  "sizeBytes": 23604975,
+  "generatedAt": "2026-09-03T01:24:28+00:00",
+  "gitCommit": "11d6ea17eaeda2b6bfd8f491ed231f45e1c5e061",
+  "notes": "Universum Kiosk v42 — release build from reviewed main. Version bump and release packaging; v41 UX features included."
 }
