@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 49,
-  "versionName": "0.1-wrapper-skeleton+49",
+  "versionCode": 50,
+  "versionName": "0.1-wrapper-skeleton+50",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v49/universum-kiosk-v49-0.1-wrapper-skeleton-49.apk",
-  "sha256": "7577be0092d8c9fcfe72ed4f8cd1b9ad8ebbad8f6d95a4db089ad3f88c85ab0a",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v50/universum-kiosk-v50-0.1-wrapper-skeleton-50.apk",
+  "sha256": "c6197faf34f37d7a9e097357a7f2bf61adf529dba7f43cc866de84865e2e2843",
   "sizeBytes": 23604975,
-  "generatedAt": "2026-09-03T21:39:55+00:00",
-  "gitCommit": "ba6ed2adf32f5130122da45b948d8484392cb8cf",
-  "notes": "v49: Settings scrollport/clipping fix verified in source; centered payment labels and complete mobile UI polish."
+  "generatedAt": "2026-09-03T22:45:11+00:00",
+  "gitCommit": "8b66f6ee9442a7b05e34dfe2064f2e6b491add90",
+  "notes": "v50: compact receipt total aligned right with currency; Settings scroll and clipping fixes included."
 }
