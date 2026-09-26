@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 54,
-  "versionName": "0.1-wrapper-skeleton+54",
+  "versionCode": 55,
+  "versionName": "0.1-wrapper-skeleton+55",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v54/universum-kiosk-v54-0.1-wrapper-skeleton-54.apk",
-  "sha256": "3ed1348d0d540ccaf2ae79401e2f1e33e75a2a4113b32672f911d9ccc8c3f600",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v55/universum-kiosk-v55-0.1-wrapper-skeleton-55.apk",
+  "sha256": "fae20462a558c6c2d471e5f2b4b08cfd453d8a0e7c92a09c595aadd61663eff4",
   "sizeBytes": 23654127,
-  "generatedAt": "2026-09-26T21:23:41+00:00",
-  "gitCommit": "e8b5037a1e3ffcd676fc68cec09934d9d4e74f48",
-  "notes": "Finisaje interfață: butoane Numerar/Card, aspect Setări și navigare pe telefon, ajustări pentru ecrane compacte și stare de recuperare."
+  "generatedAt": "2026-09-26T21:46:04+00:00",
+  "gitCommit": "66755704f42412231ec08c4ba95ea40a2a50838d",
+  "notes": "Corectează prima atingere pe un produs când bonul este gol pe telefon: produsul se adaugă o singură dată, fără deschiderea accidentală a meniului Altă sumă."
 }
