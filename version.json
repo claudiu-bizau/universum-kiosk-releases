@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 52,
-  "versionName": "0.1-wrapper-skeleton+52",
+  "versionCode": 53,
+  "versionName": "0.1-wrapper-skeleton+53",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v52/universum-kiosk-v52-0.1-wrapper-skeleton-52.apk",
-  "sha256": "b8b2a46cc770273c8ee5958d495801b7e647ac2def26ac0565cfe10c81232c47",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v53/universum-kiosk-v53-0.1-wrapper-skeleton-53.apk",
+  "sha256": "225480c8f004232852773c8e3f73cd0702190d1e270513babf7e917dd47d9686",
   "sizeBytes": 23654127,
-  "generatedAt": "2026-09-26T11:38:54+00:00",
-  "gitCommit": "2aebf76e3340a04a243796e4fea0070bc7622fd4",
-  "notes": "v52 test: aliniere îmbunătățită pentru butoanele Numerar și Card pe tablete și ecrane late; fără modificări ale plăților fiscale."
+  "generatedAt": "2026-09-26T13:14:25+00:00",
+  "gitCommit": "8292e9c1926451f5a7255c3fcf9e44ac4178b41c",
+  "notes": "Pe telefoanele înguste, banda compactă a bonului rămâne complet vizibilă; catalogul și butoanele de plată rămân accesibile."
 }
