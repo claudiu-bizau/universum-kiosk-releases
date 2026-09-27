@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 55,
-  "versionName": "0.1-wrapper-skeleton+55",
+  "versionCode": 56,
+  "versionName": "0.1-wrapper-skeleton+56",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v55/universum-kiosk-v55-0.1-wrapper-skeleton-55.apk",
-  "sha256": "fae20462a558c6c2d471e5f2b4b08cfd453d8a0e7c92a09c595aadd61663eff4",
-  "sizeBytes": 23654127,
-  "generatedAt": "2026-09-26T21:46:04+00:00",
-  "gitCommit": "66755704f42412231ec08c4ba95ea40a2a50838d",
-  "notes": "Corectează prima atingere pe un produs când bonul este gol pe telefon: produsul se adaugă o singură dată, fără deschiderea accidentală a meniului Altă sumă."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v56/universum-kiosk-v56-0.1-wrapper-skeleton-56.apk",
+  "sha256": "eb1b1ab7cdc29095b44687b04970b47a8f35b21b221f9ef00d573a23fd1474b1",
+  "sizeBytes": 23654123,
+  "generatedAt": "2026-09-27T07:24:29+00:00",
+  "gitCommit": "2be2e1ee5f8644e980f73f04e8e0d4fb6e1b1187",
+  "notes": "Catalog mai compact pe tablete în landscape: două coloane de produse și mai multe opțiuni vizibile fără derulare. Fără modificări ale fluxului fiscal."
 }
