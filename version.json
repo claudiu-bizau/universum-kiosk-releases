@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 57,
-  "versionName": "0.1-wrapper-skeleton+57",
+  "versionCode": 58,
+  "versionName": "0.1-wrapper-skeleton+58",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v57/universum-kiosk-v57-0.1-wrapper-skeleton-57.apk",
-  "sha256": "2dfd34a69bf0dcc205c5ef6cb0f282f6c716a58d0e0b20f7dcf62c6057bd5ad6",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v58/universum-kiosk-v58-0.1-wrapper-skeleton-58.apk",
+  "sha256": "8cc03c1a7896d9e655c073ce64302b69346a864ff674679aaa97a4a517b2965a",
   "sizeBytes": 23654127,
-  "generatedAt": "2026-09-28T09:27:05+00:00",
-  "gitCommit": "be477b0310da3a94dcdfc839eb53508481ea575a",
-  "notes": "Diagnostic FisCool grupat și mai lizibil pe telefon. Datele cu nume de câmp sensibil sunt ascunse de proxy în răspunsul de stare. Fără modificări ale fluxului fiscal."
+  "generatedAt": "2026-09-28T14:27:02+00:00",
+  "gitCommit": "9c94c712960881d226c04340e2a5c909a019a251",
+  "notes": "Securizare diagnostic FisCool: URL-urile cu posibile date de acces sunt ascunse înainte de cache și afișare. Nu schimbă emiterea bonurilor."
 }
