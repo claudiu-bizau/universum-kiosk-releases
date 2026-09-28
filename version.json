@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 56,
-  "versionName": "0.1-wrapper-skeleton+56",
+  "versionCode": 57,
+  "versionName": "0.1-wrapper-skeleton+57",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v56/universum-kiosk-v56-0.1-wrapper-skeleton-56.apk",
-  "sha256": "eb1b1ab7cdc29095b44687b04970b47a8f35b21b221f9ef00d573a23fd1474b1",
-  "sizeBytes": 23654123,
-  "generatedAt": "2026-09-27T07:24:29+00:00",
-  "gitCommit": "2be2e1ee5f8644e980f73f04e8e0d4fb6e1b1187",
-  "notes": "Catalog mai compact pe tablete în landscape: două coloane de produse și mai multe opțiuni vizibile fără derulare. Fără modificări ale fluxului fiscal."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v57/universum-kiosk-v57-0.1-wrapper-skeleton-57.apk",
+  "sha256": "2dfd34a69bf0dcc205c5ef6cb0f282f6c716a58d0e0b20f7dcf62c6057bd5ad6",
+  "sizeBytes": 23654127,
+  "generatedAt": "2026-09-28T09:27:05+00:00",
+  "gitCommit": "be477b0310da3a94dcdfc839eb53508481ea575a",
+  "notes": "Diagnostic FisCool grupat și mai lizibil pe telefon. Datele cu nume de câmp sensibil sunt ascunse de proxy în răspunsul de stare. Fără modificări ale fluxului fiscal."
 }
