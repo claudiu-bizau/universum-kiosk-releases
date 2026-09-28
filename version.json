@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 58,
-  "versionName": "0.1-wrapper-skeleton+58",
+  "versionCode": 59,
+  "versionName": "0.1-wrapper-skeleton+59",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v58/universum-kiosk-v58-0.1-wrapper-skeleton-58.apk",
-  "sha256": "8cc03c1a7896d9e655c073ce64302b69346a864ff674679aaa97a4a517b2965a",
-  "sizeBytes": 23654127,
-  "generatedAt": "2026-09-28T14:27:02+00:00",
-  "gitCommit": "9c94c712960881d226c04340e2a5c909a019a251",
-  "notes": "Securizare diagnostic FisCool: URL-urile cu posibile date de acces sunt ascunse înainte de cache și afișare. Nu schimbă emiterea bonurilor."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v59/universum-kiosk-v59-0.1-wrapper-skeleton-59.apk",
+  "sha256": "e1747e4b9521137b83506ee9da3d6928f828a8aea474966254f49c3df133ff0e",
+  "sizeBytes": 23654123,
+  "generatedAt": "2026-09-28T15:02:28+00:00",
+  "gitCommit": "915e9f5b87b93d27919e499580884e222ddbc9a1",
+  "notes": "v59: catalogul pe telefon în landscape folosește dale mai compacte, fără schimbări în fluxul fiscal."
 }
