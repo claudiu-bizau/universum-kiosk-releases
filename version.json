@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 63,
-  "versionName": "0.1-wrapper-skeleton+63",
+  "versionCode": 64,
+  "versionName": "0.1-wrapper-skeleton+64",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v63/universum-kiosk-v63-0.1-wrapper-skeleton-63.apk",
-  "sha256": "004a82973c6f6c52e9fa3ccbf907d4a0559ee34594a05e5b082499d2afb78c8d",
-  "sizeBytes": 23670511,
-  "generatedAt": "2026-09-29T12:44:18+00:00",
-  "gitCommit": "accd8db4adbb9298c005f8038b8d7e65e23e8935",
-  "notes": "v63: categorii de servicii programate pe zilele săptămânii; categoria zilei se selectează automat. Produsele rămân și în categoriile obișnuite."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v64/universum-kiosk-v64-0.1-wrapper-skeleton-64.apk",
+  "sha256": "53febf32d6f267864321b8037dd96c6e194d16d69ccd0d9b7734f0c806d97b54",
+  "sizeBytes": 23670507,
+  "generatedAt": "2026-09-29T13:05:44+00:00",
+  "gitCommit": "723b34bbb391c8b7cf6305d39653abcac825d292",
+  "notes": "Setări: Actualizare apare la finalul meniului în aplicația Android. Pe tabletă landscape, Bon pe firmă și CUI sunt așezate lizibil."
 }
