@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 69,
-  "versionName": "0.1-wrapper-skeleton+69",
+  "versionCode": 70,
+  "versionName": "0.1-wrapper-skeleton+70",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v69/universum-kiosk-v69-0.1-wrapper-skeleton-69.apk",
-  "sha256": "472aabc00df79a7383294518fee7028f6dad1dc02a483afc34afb21c530e091a",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v70/universum-kiosk-v70-0.1-wrapper-skeleton-70.apk",
+  "sha256": "bb8f522fecbe09435216b99aa1bf6fe3ea00b699775d5b44eaec5e399af77265",
   "sizeBytes": 23686895,
-  "generatedAt": "2026-09-29T21:07:01+00:00",
-  "gitCommit": "5b99cf5421e4c814ce9122484095835595b3ea74",
-  "notes": "Căutare compactă, actualizare nativă și detalii extinse InfoCUI."
+  "generatedAt": "2026-09-29T22:55:32+00:00",
+  "gitCommit": "de41bcedbb9cfe08f7ffc0af8f08970cb2317a0b",
+  "notes": "Corectat meniul Android: Actualizare în loc de Tot ecranul. La reluarea coșului se păstrează categoria programată pentru ziua curentă."
 }
