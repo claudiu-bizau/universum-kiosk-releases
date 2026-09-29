@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 66,
-  "versionName": "0.1-wrapper-skeleton+66",
+  "versionCode": 67,
+  "versionName": "0.1-wrapper-skeleton+67",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v66/universum-kiosk-v66-0.1-wrapper-skeleton-66.apk",
-  "sha256": "ba4b4f5f33dd644c5d0c2cc2cbce24bd252633a54478c4ee5f633be8db1b2b52",
-  "sizeBytes": 23670511,
-  "generatedAt": "2026-09-29T17:38:11+00:00",
-  "gitCommit": "ca7a09213706c48b3996b529c70694cfc53bb7ef",
-  "notes": "Corecție pentru banda întunecată de sus în aplicația Android: mesajul Card/POS rămâne complet în afara ecranului când este ascuns și apare în poziția sigură la nevoie."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v67/universum-kiosk-v67-0.1-wrapper-skeleton-67.apk",
+  "sha256": "b51d1aa4c85d74ad37f79d550eb733c2078da350d5f08925f9b3f21fa3e45152",
+  "sizeBytes": 23670507,
+  "generatedAt": "2026-09-29T19:51:11+00:00",
+  "gitCommit": "db07d8af104997e89e291a5b3ac597e7d5c1f6d4",
+  "notes": "Antetul bonului afișat în aplicație nu mai folosește implicit numele Universum. Numele și logo-ul afacerii apar numai dacă sunt configurate în Setări; bonul fiscal trimis casei rămâne neschimbat."
 }
