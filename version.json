@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 62,
-  "versionName": "0.1-wrapper-skeleton+62",
+  "versionCode": 63,
+  "versionName": "0.1-wrapper-skeleton+63",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v62/universum-kiosk-v62-0.1-wrapper-skeleton-62.apk",
-  "sha256": "5cdeac6b3ecc2173ebee89cf7584b27d832ca20efcaf1d1aac95047196c413fe",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v63/universum-kiosk-v63-0.1-wrapper-skeleton-63.apk",
+  "sha256": "004a82973c6f6c52e9fa3ccbf907d4a0559ee34594a05e5b082499d2afb78c8d",
   "sizeBytes": 23670511,
-  "generatedAt": "2026-09-29T10:54:50+00:00",
-  "gitCommit": "ad61387f5f9f3f706260e3b8600a962a1ac18576",
-  "notes": "v62: clarifică în confirmare că Raport Lunar tipărește raportul fiscal lunar din memoria casei; nu emite un Z nou și nu închide ziua fiscală."
+  "generatedAt": "2026-09-29T12:44:18+00:00",
+  "gitCommit": "accd8db4adbb9298c005f8038b8d7e65e23e8935",
+  "notes": "v63: categorii de servicii programate pe zilele săptămânii; categoria zilei se selectează automat. Produsele rămân și în categoriile obișnuite."
 }
