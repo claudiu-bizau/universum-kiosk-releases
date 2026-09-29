@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 70,
-  "versionName": "0.1-wrapper-skeleton+70",
+  "versionCode": 71,
+  "versionName": "0.1-wrapper-skeleton+71",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v70/universum-kiosk-v70-0.1-wrapper-skeleton-70.apk",
-  "sha256": "bb8f522fecbe09435216b99aa1bf6fe3ea00b699775d5b44eaec5e399af77265",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v71/universum-kiosk-v71-0.1-wrapper-skeleton-71.apk",
+  "sha256": "2a95988cb2ab0c98af675c6e7183a45f334547025b407f6781bbd419578571ae",
   "sizeBytes": 23686895,
-  "generatedAt": "2026-09-29T22:55:32+00:00",
-  "gitCommit": "de41bcedbb9cfe08f7ffc0af8f08970cb2317a0b",
-  "notes": "Corectat meniul Android: Actualizare în loc de Tot ecranul. La reluarea coșului se păstrează categoria programată pentru ziua curentă."
+  "generatedAt": "2026-09-29T23:16:58+00:00",
+  "gitCommit": "76682e5f130d860e96c4abed723194b94e2a5d06",
+  "notes": "Corectat selectorul de imagine pentru logo în aplicația Android."
 }
