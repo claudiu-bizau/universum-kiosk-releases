@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 67,
-  "versionName": "0.1-wrapper-skeleton+67",
+  "versionCode": 68,
+  "versionName": "0.1-wrapper-skeleton+68",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v67/universum-kiosk-v67-0.1-wrapper-skeleton-67.apk",
-  "sha256": "b51d1aa4c85d74ad37f79d550eb733c2078da350d5f08925f9b3f21fa3e45152",
-  "sizeBytes": 23670507,
-  "generatedAt": "2026-09-29T19:51:11+00:00",
-  "gitCommit": "db07d8af104997e89e291a5b3ac597e7d5c1f6d4",
-  "notes": "Antetul bonului afișat în aplicație nu mai folosește implicit numele Universum. Numele și logo-ul afacerii apar numai dacă sunt configurate în Setări; bonul fiscal trimis casei rămâne neschimbat."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v68/universum-kiosk-v68-0.1-wrapper-skeleton-68.apk",
+  "sha256": "6e8328f81c28586d7491b9e05dfe07cafb6c1bd07bec0bc9bb59671bb79cbd4a",
+  "sizeBytes": 23670511,
+  "generatedAt": "2026-09-29T20:13:56+00:00",
+  "gitCommit": "ac403a8e758e8a67e2638b68429614011cd69d84",
+  "notes": "Opțional, după ținerea apăsată pe Card, aplicația POS aleasă în Setări se deschide automat. La revenire plata se confirmă sau se declară eșuată manual; butonul de deschidere rămâne disponibil. Nicio plată și niciun bon fiscal nu sunt confirmate automat."
 }
