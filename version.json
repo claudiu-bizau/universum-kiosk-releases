@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 65,
-  "versionName": "0.1-wrapper-skeleton+65",
+  "versionCode": 66,
+  "versionName": "0.1-wrapper-skeleton+66",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v65/universum-kiosk-v65-0.1-wrapper-skeleton-65.apk",
-  "sha256": "1c4d783ca9048bbeb4ee1e5fa3fd7d5be972599fb61866c596ec13a6abcdcebf",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v66/universum-kiosk-v66-0.1-wrapper-skeleton-66.apk",
+  "sha256": "ba4b4f5f33dd644c5d0c2cc2cbce24bd252633a54478c4ee5f633be8db1b2b52",
   "sizeBytes": 23670511,
-  "generatedAt": "2026-09-29T13:21:56+00:00",
-  "gitCommit": "0420710af7d193c390d2462c0a849903d4a486bd",
-  "notes": "Modul cantitate: indicație clară și fără buton inert. Categoria programată a zilei apare prima. Pe tableta landscape, meniul este afișat inline cu nume."
+  "generatedAt": "2026-09-29T17:38:11+00:00",
+  "gitCommit": "ca7a09213706c48b3996b529c70694cfc53bb7ef",
+  "notes": "Corecție pentru banda întunecată de sus în aplicația Android: mesajul Card/POS rămâne complet în afara ecranului când este ascuns și apare în poziția sigură la nevoie."
 }
