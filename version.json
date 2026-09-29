@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 64,
-  "versionName": "0.1-wrapper-skeleton+64",
+  "versionCode": 65,
+  "versionName": "0.1-wrapper-skeleton+65",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v64/universum-kiosk-v64-0.1-wrapper-skeleton-64.apk",
-  "sha256": "53febf32d6f267864321b8037dd96c6e194d16d69ccd0d9b7734f0c806d97b54",
-  "sizeBytes": 23670507,
-  "generatedAt": "2026-09-29T13:05:44+00:00",
-  "gitCommit": "723b34bbb391c8b7cf6305d39653abcac825d292",
-  "notes": "Setări: Actualizare apare la finalul meniului în aplicația Android. Pe tabletă landscape, Bon pe firmă și CUI sunt așezate lizibil."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v65/universum-kiosk-v65-0.1-wrapper-skeleton-65.apk",
+  "sha256": "1c4d783ca9048bbeb4ee1e5fa3fd7d5be972599fb61866c596ec13a6abcdcebf",
+  "sizeBytes": 23670511,
+  "generatedAt": "2026-09-29T13:21:56+00:00",
+  "gitCommit": "0420710af7d193c390d2462c0a849903d4a486bd",
+  "notes": "Modul cantitate: indicație clară și fără buton inert. Categoria programată a zilei apare prima. Pe tableta landscape, meniul este afișat inline cu nume."
 }
