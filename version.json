@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 60,
-  "versionName": "0.1-wrapper-skeleton+60",
+  "versionCode": 61,
+  "versionName": "0.1-wrapper-skeleton+61",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v60/universum-kiosk-v60-0.1-wrapper-skeleton-60.apk",
-  "sha256": "3d9358077b975602073afa93d4176b471d7af965c6dd1837dd0c0154b82cd434",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v61/universum-kiosk-v61-0.1-wrapper-skeleton-61.apk",
+  "sha256": "4a171fde7865d567e7feaf7911f2736848d0ca55b1c526ca27ed3ae9af1c362f",
   "sizeBytes": 23670511,
-  "generatedAt": "2026-09-29T06:40:58+00:00",
-  "gitCommit": "395a2a684a8ea8ba7379538c09bbf9bf593e8026",
-  "notes": "v60: avertisment discret de la 5.000 lei pentru numerar fara CUI si evidenta zilnica a numerarului pe CUI in aplicatie; cardul ramane disponibil."
+  "generatedAt": "2026-09-29T08:14:52+00:00",
+  "gitCommit": "6a4f8d6d296e6c75126ec4ffd9cb8e950d7efe1e",
+  "notes": "v61: Raport Lunar pe hartie, sub X si Z. Pregateste automat luna incheiata, confirma intervalul si tipareste numai dupa tinere apasata. Nu inchide ziua fiscala."
 }
