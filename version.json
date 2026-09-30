@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 75,
-  "versionName": "0.1-wrapper-skeleton+75",
+  "versionCode": 76,
+  "versionName": "0.1-wrapper-skeleton+76",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v75/universum-kiosk-v75-0.1-wrapper-skeleton-75.apk",
-  "sha256": "6231c25a5d990049a4258035bdf910a31fbbac3ae7d45f6e7fa490aec72c9c51",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v76/universum-kiosk-v76-0.1-wrapper-skeleton-76.apk",
+  "sha256": "10918109799889bb905776abea9c19f02426caa0fe80d3b90e6396646d66790b",
   "sizeBytes": 23703279,
-  "generatedAt": "2026-09-30T07:53:20+00:00",
-  "gitCommit": "c7631d69a93a1e353f160407562061f8653d9059",
-  "notes": "v75: copii complete criptate, export/import pe Android, export și ștergere instantanee locale. Bonul în lucru și starea fiscală nu sunt incluse."
+  "generatedAt": "2026-09-30T08:41:11+00:00",
+  "gitCommit": "cabdfe3228809b91be09ed4efb2d1619471b389a",
+  "notes": "v76: aliniază bifele din previzualizarea restaurării backupului pe telefon."
 }
