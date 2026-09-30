@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 74,
-  "versionName": "0.1-wrapper-skeleton+74",
+  "versionCode": 75,
+  "versionName": "0.1-wrapper-skeleton+75",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v74/universum-kiosk-v74-0.1-wrapper-skeleton-74.apk",
-  "sha256": "a7d0a068192efabb567e5fe9bd162ab2df7be4e26eaf4107c8c1611a0b381f94",
-  "sizeBytes": 23686895,
-  "generatedAt": "2026-09-30T06:18:40+00:00",
-  "gitCommit": "9614b0ffbfde7f9984d991083cca11f5ad674037",
-  "notes": "Instalările noi pornesc cu catalog gol și cer adăugarea produselor înainte de confirmarea configurării inițiale. Ghidul indică verificarea TVA, departamentului, casei și driverului. Instalările existente își păstrează catalogul și comportamentul."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v75/universum-kiosk-v75-0.1-wrapper-skeleton-75.apk",
+  "sha256": "6231c25a5d990049a4258035bdf910a31fbbac3ae7d45f6e7fa490aec72c9c51",
+  "sizeBytes": 23703279,
+  "generatedAt": "2026-09-30T07:53:20+00:00",
+  "gitCommit": "c7631d69a93a1e353f160407562061f8653d9059",
+  "notes": "v75: copii complete criptate, export/import pe Android, export și ștergere instantanee locale. Bonul în lucru și starea fiscală nu sunt incluse."
 }
