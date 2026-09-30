@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 72,
-  "versionName": "0.1-wrapper-skeleton+72",
+  "versionCode": 73,
+  "versionName": "0.1-wrapper-skeleton+73",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v72/universum-kiosk-v72-0.1-wrapper-skeleton-72.apk",
-  "sha256": "b9f42995b031ac4d9121633668b2697900801f1ac43d184904540305b1b663c0",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v73/universum-kiosk-v73-0.1-wrapper-skeleton-73.apk",
+  "sha256": "0d87537b58f9c1d61f5c4c9632440449d617367eac74f0fd77acf457ef71cc80",
   "sizeBytes": 23686895,
-  "generatedAt": "2026-09-29T23:34:56+00:00",
-  "gitCommit": "e9ab49e56e7143d630a17e87c01a6aa69791fe91",
-  "notes": "Logo-ul afacerii este mai mare și lizibil pe bonul afișat pe ecran, adaptat la telefon, tabletă și WebUI. Logo-ul tipărit de casa fiscală nu se schimbă."
+  "generatedAt": "2026-09-30T05:43:29+00:00",
+  "gitCommit": "64eef628a5bc5e408ab71b7e94a8b4e42785dcd3",
+  "notes": "Configurarea inițială cere confirmarea catalogului, grupei TVA și departamentului înaintea primei încasări pe o instalare nouă. Instalările existente rămân neschimbate; rapoartele și recuperarea unui bon incert rămân disponibile."
 }
