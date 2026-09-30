@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 73,
-  "versionName": "0.1-wrapper-skeleton+73",
+  "versionCode": 74,
+  "versionName": "0.1-wrapper-skeleton+74",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v73/universum-kiosk-v73-0.1-wrapper-skeleton-73.apk",
-  "sha256": "0d87537b58f9c1d61f5c4c9632440449d617367eac74f0fd77acf457ef71cc80",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v74/universum-kiosk-v74-0.1-wrapper-skeleton-74.apk",
+  "sha256": "a7d0a068192efabb567e5fe9bd162ab2df7be4e26eaf4107c8c1611a0b381f94",
   "sizeBytes": 23686895,
-  "generatedAt": "2026-09-30T05:43:29+00:00",
-  "gitCommit": "64eef628a5bc5e408ab71b7e94a8b4e42785dcd3",
-  "notes": "Configurarea inițială cere confirmarea catalogului, grupei TVA și departamentului înaintea primei încasări pe o instalare nouă. Instalările existente rămân neschimbate; rapoartele și recuperarea unui bon incert rămân disponibile."
+  "generatedAt": "2026-09-30T06:18:40+00:00",
+  "gitCommit": "9614b0ffbfde7f9984d991083cca11f5ad674037",
+  "notes": "Instalările noi pornesc cu catalog gol și cer adăugarea produselor înainte de confirmarea configurării inițiale. Ghidul indică verificarea TVA, departamentului, casei și driverului. Instalările existente își păstrează catalogul și comportamentul."
 }
