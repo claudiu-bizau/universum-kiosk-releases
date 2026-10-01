@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 77,
-  "versionName": "0.1-wrapper-skeleton+77",
+  "versionCode": 78,
+  "versionName": "0.1-wrapper-skeleton+78",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v77/universum-kiosk-v77-0.1-wrapper-skeleton-77.apk",
-  "sha256": "27b05322ba34b75a83858d88ef0ce5e2297ee8d1271e7e76304bc834d8883718",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v78/universum-kiosk-v78-0.1-wrapper-skeleton-78.apk",
+  "sha256": "886d5b1ec5e5ba52a5c200042c0f80237b44c5e543676aaf01e17224745a61b9",
   "sizeBytes": 23752431,
-  "generatedAt": "2026-10-01T11:51:04+00:00",
-  "gitCommit": "a58851252476a18b17ff0a8512da3bfa73bb3bea",
-  "notes": "Adds the Datecs DP-150 simulation lab in Settings for safe interface and command-flow testing. Clearly marked SIMULARE; normal sales continue using FisCool. No real fiscal hardware was operated for this release."
+  "generatedAt": "2026-10-01T20:08:21+00:00",
+  "gitCommit": "91e4f35e3a70a0b0be9ffb73a461a210e7671372",
+  "notes": "Adds opt-in SIMULARE mode: normal cash sales can be tested through the in-memory Datecs simulator and shown in Laborator Datecs. Default production routing remains unchanged; card, fiscal reports and CUI are refused in simulation. No physical fiscal device was used."
 }
