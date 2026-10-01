@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 78,
-  "versionName": "0.1-wrapper-skeleton+78",
+  "versionCode": 79,
+  "versionName": "0.1-wrapper-skeleton+79",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v78/universum-kiosk-v78-0.1-wrapper-skeleton-78.apk",
-  "sha256": "886d5b1ec5e5ba52a5c200042c0f80237b44c5e543676aaf01e17224745a61b9",
-  "sizeBytes": 23752431,
-  "generatedAt": "2026-10-01T20:08:21+00:00",
-  "gitCommit": "91e4f35e3a70a0b0be9ffb73a461a210e7671372",
-  "notes": "Adds opt-in SIMULARE mode: normal cash sales can be tested through the in-memory Datecs simulator and shown in Laborator Datecs. Default production routing remains unchanged; card, fiscal reports and CUI are refused in simulation. No physical fiscal device was used."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v79/universum-kiosk-v79-0.1-wrapper-skeleton-79.apk",
+  "sha256": "4e68b287dd0a3c830b7e4a0bdf325b05ae44e7d3d0315777f69bb0081a57549e",
+  "sizeBytes": 23785199,
+  "generatedAt": "2026-10-01T22:27:53+00:00",
+  "gitCommit": "2413b443263e7a54ea58a8eb281bc11347da1fc5",
+  "notes": "Adds a manual read-only Datecs DP-150 connection check in Settings for device status, transaction state and VAT rates. It does not issue receipts, payments or reports; FisCool remains the default driver. Real-device compatibility still needs on-site verification; no fiscal device was contacted for this release."
 }
