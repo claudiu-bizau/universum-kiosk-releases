@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 76,
-  "versionName": "0.1-wrapper-skeleton+76",
+  "versionCode": 77,
+  "versionName": "0.1-wrapper-skeleton+77",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v76/universum-kiosk-v76-0.1-wrapper-skeleton-76.apk",
-  "sha256": "10918109799889bb905776abea9c19f02426caa0fe80d3b90e6396646d66790b",
-  "sizeBytes": 23703279,
-  "generatedAt": "2026-09-30T08:41:11+00:00",
-  "gitCommit": "cabdfe3228809b91be09ed4efb2d1619471b389a",
-  "notes": "v76: aliniază bifele din previzualizarea restaurării backupului pe telefon."
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v77/universum-kiosk-v77-0.1-wrapper-skeleton-77.apk",
+  "sha256": "27b05322ba34b75a83858d88ef0ce5e2297ee8d1271e7e76304bc834d8883718",
+  "sizeBytes": 23752431,
+  "generatedAt": "2026-10-01T11:51:04+00:00",
+  "gitCommit": "a58851252476a18b17ff0a8512da3bfa73bb3bea",
+  "notes": "Adds the Datecs DP-150 simulation lab in Settings for safe interface and command-flow testing. Clearly marked SIMULARE; normal sales continue using FisCool. No real fiscal hardware was operated for this release."
 }
