@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "appId": "com.universumkiosk.app",
-  "versionCode": 80,
-  "versionName": "0.1-wrapper-skeleton+80",
+  "versionCode": 81,
+  "versionName": "0.1-wrapper-skeleton+81",
   "mandatory": false,
-  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v80/universum-kiosk-v80-0.1-wrapper-skeleton-80.apk",
-  "sha256": "2d2ea74bb418b10be36cbae6a505365c1984cab3b3ed9ee52ca4434e29fa9c3b",
+  "apkUrl": "https://github.com/claudiu-bizau/universum-kiosk-releases/releases/download/android-v81/universum-kiosk-v81-0.1-wrapper-skeleton-81.apk",
+  "sha256": "cb46eae2442b8988a03ec6b036486d784925f74e74b6b20b6b6c34278b562515",
   "sizeBytes": 23785199,
-  "generatedAt": "2026-10-02T22:40:46+00:00",
-  "gitCommit": "6a313adb32ea82f107819a2762c53d303bf7a4a6",
-  "notes": "Adds a specific, value-free explanation when the Datecs DP-150 read-only check cannot parse a reply, including the failed field and its shape. The check still stops before further commands on error. No sale, payment or report routing changes; FisCool remains the default driver."
+  "generatedAt": "2026-10-02T23:49:20+00:00",
+  "gitCommit": "f294b9975b2ea54e466618b162b684389961c388",
+  "notes": "v81: verificarea Datecs DP-150 trimite doar comenzile de citire 74 și 76; comanda 50 este blocată înainte de transmisie. Răspunsul 76 al aparatului testat rămâne neacceptat, astfel verificarea se oprește fără tipărire sau vânzare. Rutarea bonurilor de producție nu s-a schimbat."
 }
